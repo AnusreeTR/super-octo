@@ -1,4 +1,0 @@
-Hi everyone,
-Here am performing sentiment analysis on twitter extracted data on hashtag Article 370 on directly accessing data using API keys.
-And plot that in to Pie-Chart,which will give the sentiments in to positive,negative,neutral,strongly positive and strongly negative,weakly positive and weakly negative.
-In addition to these word cloud was visualised to get the most frequently occuring words among tweets collected.
